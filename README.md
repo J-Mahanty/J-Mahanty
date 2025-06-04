@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @J-Mahanty
 - 👀 I’m interested in Front-end development.
 - 🌱 I’m currently learning CSS
-- 💞️ I’m looking to colaborate in the long run, none as of now. 
+- 💞️ I’m looking to colaborate in static css based projects
 - 📫 How to reach me ..
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
